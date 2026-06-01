@@ -114,14 +114,6 @@ Forward sensitivity propagation based on the linearized system.
 
 
 
-\### `impact\_error.m`
-
-
-
-Computation of the terminal impact error.
-
-
-
 \### `A\_of\_t.m`
 
 
